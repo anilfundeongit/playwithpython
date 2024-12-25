@@ -1,2 +1,2 @@
 # playwithpython
-play with python
+play with python sandbox
